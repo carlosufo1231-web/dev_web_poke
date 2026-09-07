@@ -1,0 +1,9 @@
+body{
+    background-color: #7f9bc5;
+}
+
+.pokemon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
