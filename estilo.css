@@ -1,5 +1,5 @@
 body{
-    background-color: #7f9bc5;
+    background-color: #ffffff;
 }
 
 .pokemon{
@@ -8,3 +8,25 @@ body{
     align-items: center;
 }
 
+.Minha_logo{
+    max-width: 5%;
+    height: auto;
+}
+
+.meu_titulo{
+    display: flex;
+    font-size: 110%;
+    font-weight: bold;
+}
+
+.meu_titulo1{
+    display: flex;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+header{
+    background-color: #ffffff;
+    padding: 19px;
+    text-align: center;
+}
